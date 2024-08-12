@@ -1,0 +1,12 @@
+# Result
+🍕It is usually busy during lunch and dinner hours.
+🍕The number of orders is high on Fridays.
+🍕Classic pizza is generally preferred.
+🍕Orders increase on Friday and Saturday.
+🍕The order is given as L size pizza at most.
+**Outliers:
+🍕Outlier Boundaries: Prices outside the range of $1.125 to $32.13 are considered outliers. 
+This suggests that most orders are priced within the central range, but there are some orders with significantly higher total prices.
+High-End Outliers: There are a number of orders with total prices ranging from $32.13 to $85. 
+These outliers likely represent large or premium orders, and their presence indicates that there is a substantial variance in the total price of orders.
+🍕Tomatoes, red peppers and red onions are usually found in all pizzas.
